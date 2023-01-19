@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Backrooms/Assets/Resources/OVRBuildConfig.asset.meta
 guid: db57983673f4298409ef68dc3427c3bd
+========
+guid: b2cfb0861f36f654aa5ccc881c6b0388
+>>>>>>>> 917c0315dd741461d585d8c58a68f72a464836d6:Backrooms/Assets/Resources/OVRPlatformToolSettings.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
