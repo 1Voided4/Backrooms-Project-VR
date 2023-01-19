@@ -20,7 +20,7 @@ public class PannLampaSkript : MonoBehaviour
     void Update()
     {
 
-
+        
         OVRInput.Update();
 
         if (OVRInput.Get(OVRInput.Button.One))
@@ -36,7 +36,7 @@ public class PannLampaSkript : MonoBehaviour
     public void FlashLightOn()
     {
         print("aaa");
-
+        
     }
     public void FlashLightOff()
     {

@@ -16,12 +16,15 @@ PluginImporter:
     second:
       enabled: 0
       settings: {}
+<<<<<<< HEAD
+=======
   - first:
       Editor: Editor
     second:
       enabled: 0
       settings:
         DefaultValueInitialized: true
+>>>>>>> 917c0315dd741461d585d8c58a68f72a464836d6
   userData: 
   assetBundleName: 
   assetBundleVariant: 
