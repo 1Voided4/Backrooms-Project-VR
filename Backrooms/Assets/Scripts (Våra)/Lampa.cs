@@ -1,27 +1,27 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Events;
-using UnityEngine.XR;
+//using System.Collections;
+//using System.Collections.Generic;
+//using UnityEngine;
+//using UnityEngine.Events;
+//using UnityEngine.XR;
 
 
-public class PannLampaSkript : MonoBehaviour
-{
-    public short LightStrenght;
+//public class PannLampaSkript : MonoBehaviour
+//{
+//    public short LightStrenght;
 
-    private void Update()
-    {
+//    private void Update()
+//    {
         
-    }
-    public void FlashLightOnOff()
-    {
-        Input
+//    }
+//    public void FlashLightOnOff()
+//    {
+        
 
-        if (XRInput.GetDown(OVRInput))
-        {
+//       // if () //input behövs
+//      //  {
 
-        }
-        this.GetComponent<Light>().intensity = LightStrenght;
-    }
+//      //  }
+//        this.GetComponent<Light>().intensity = LightStrenght;
+//    }
 
-}
+//}
